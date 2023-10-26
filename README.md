@@ -18,7 +18,6 @@ To assess the performance and accuracy of the models, the following metrics will
 - Precision
 - Recall
 - F1 Score
-- ROC-AUC
 
 ## Application
 
